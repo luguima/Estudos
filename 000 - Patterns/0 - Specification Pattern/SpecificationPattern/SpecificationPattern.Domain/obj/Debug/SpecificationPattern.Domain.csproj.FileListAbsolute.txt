@@ -1,0 +1,5 @@
+C:\GIT\Estudos\2 - Patterns\0 - Specification Pattern\SpecificationPattern\SpecificationPattern.Domain\obj\Debug\SpecificationPattern.Domain.csprojResolveAssemblyReference.cache
+C:\GIT\Estudos\2 - Patterns\0 - Specification Pattern\SpecificationPattern\SpecificationPattern.Domain\bin\Debug\SpecificationPattern.Domain.dll
+C:\GIT\Estudos\2 - Patterns\0 - Specification Pattern\SpecificationPattern\SpecificationPattern.Domain\bin\Debug\SpecificationPattern.Domain.pdb
+C:\GIT\Estudos\2 - Patterns\0 - Specification Pattern\SpecificationPattern\SpecificationPattern.Domain\obj\Debug\SpecificationPattern.Domain.dll
+C:\GIT\Estudos\2 - Patterns\0 - Specification Pattern\SpecificationPattern\SpecificationPattern.Domain\obj\Debug\SpecificationPattern.Domain.pdb
