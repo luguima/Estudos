@@ -21,7 +21,7 @@ namespace SpecificationPattern.Domain.Entities
 
         public string Username { get; set; }
 
-        public DateTime DataRegistro { get; set; }
+        public DateTime DataRegistroA { get; set; }
 
         public DateTime DataNascimento { get; set; }
     }
