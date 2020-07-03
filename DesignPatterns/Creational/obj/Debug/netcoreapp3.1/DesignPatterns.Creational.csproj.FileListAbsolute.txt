@@ -1,0 +1,9 @@
+D:\Estudos\DesignPatterns\Creational\bin\Debug\netcoreapp3.1\DesignPatterns.Creational.deps.json
+D:\Estudos\DesignPatterns\Creational\bin\Debug\netcoreapp3.1\DesignPatterns.Creational.dll
+D:\Estudos\DesignPatterns\Creational\bin\Debug\netcoreapp3.1\DesignPatterns.Creational.pdb
+D:\Estudos\DesignPatterns\Creational\obj\Debug\netcoreapp3.1\DesignPatterns.Creational.csprojAssemblyReference.cache
+D:\Estudos\DesignPatterns\Creational\obj\Debug\netcoreapp3.1\DesignPatterns.Creational.AssemblyInfoInputs.cache
+D:\Estudos\DesignPatterns\Creational\obj\Debug\netcoreapp3.1\DesignPatterns.Creational.AssemblyInfo.cs
+D:\Estudos\DesignPatterns\Creational\obj\Debug\netcoreapp3.1\DesignPatterns.Creational.csproj.CoreCompileInputs.cache
+D:\Estudos\DesignPatterns\Creational\obj\Debug\netcoreapp3.1\DesignPatterns.Creational.dll
+D:\Estudos\DesignPatterns\Creational\obj\Debug\netcoreapp3.1\DesignPatterns.Creational.pdb
